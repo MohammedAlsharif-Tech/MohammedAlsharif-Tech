@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mohammed Alsharif
 
-<!--
-**MohammedAlsharif-Tech/MohammedAlsharif-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineer | 💻 Passionate Coder | 📱 Mobile & Web Developer | 🌱 Always Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a dedicated Software Engineer who enjoys building modern applications that solve real-world problems. I work on both front-end and back-end systems and love creating seamless user experiences.
+
+**Key Interests:**
+- 📱 Mobile Development with Flutter
+- 🛠️ Full-Stack Web Development
+- 🗃️ Relational Databases & SQL (MySQL)
+- 💡 Clean Code & Scalable Architecture
+- 🧠 Exploring new frameworks and technologies
+
+---
+
+## 🧰 Tools & Technologies
+
+
+---
+
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/mohammed-alsharif-35032428a)
+- 📧 mohammedalsharif0@outlook.com
+
+---
+
+⭐ *Thanks for visiting my GitHub! Feel free to check out my projects and reach out anytime!*
