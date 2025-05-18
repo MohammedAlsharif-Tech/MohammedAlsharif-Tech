@@ -10,7 +10,6 @@ I'm a dedicated Software Engineer who enjoys building modern applications that s
 
 **Key Interests:**
 - 📱 Mobile Development with Flutter
-- 🛠️ Full-Stack Web Development
 - 🗃️ Relational Databases & SQL (MySQL)
 - 💡 Clean Code & Scalable Architecture
 - 🧠 Exploring new frameworks and technologies
@@ -26,7 +25,7 @@ I'm a dedicated Software Engineer who enjoys building modern applications that s
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/mohammed-alsharif-35032428a)
-- 📧 mohammedalsharif0@outlook.com
+- 📧 mohammed_alsharif0@outlook.com
 
 ---
 
